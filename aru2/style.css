@@ -1,0 +1,55 @@
+body{
+    background: #73ee62d2;
+    font-family: sans-serif;
+}
+
+.kalkulator{
+    width: 800px;
+    background: #89f75ed8;
+    margin: 150px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 15px;
+}
+
+.bil{
+    font-size: 200px;
+    margin: 10px;
+    border: none;
+    font-size: 16pt;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.opt{
+    font-size: 10pt;
+    border: none;
+    width: 170px;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.tombol{
+    background: #5dc981;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 4px;
+    padding: 7px 20px;
+    color: rgb(250, 249, 249);
+    font-size: 15pt;
+    border-bottom: 4px solid #5dc981;
+}
+.brand{
+    color: #eee;
+    font-size: 14pt;
+    float: center;
+    text-decoration: none;
+    margin: 12px;
+}
+
+.judul{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+}
